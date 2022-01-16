@@ -1,0 +1,12 @@
+int takes 4 bytes or 32 bits.
+
+char takes 1 bytes or 8 bits.
+
+float takes 4 bytes.
+
+double takes 8 bytes.
+
+bool takes 1 bytes.
+
+
+Variable name can't start with number.
